@@ -12,8 +12,6 @@ $stdout.sync = true
             [1,2,2,1,2,1]],
   \"id\": 1,
   \"players\": [
-    {\"name\": \"docker.insops.net/playerOne/bot:latest\"},
-    {\"name\": \"docker.insops.net/playerTwo/bot:latest\"}
   ],
   \"winner\": null,
   \"winReason\": null,
